@@ -1,0 +1,13 @@
+Package: myfoopackage
+Title: Shannon Diversity Calculator
+Version: 0.0.0.9000
+Authors@R: 
+    person("Adenilson", "Arcanjo", , "arcanjomjrt@gmail.com", role = c("aut", "cre"))
+Description: Calculates Shannon Diversity.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
